@@ -1,15 +1,12 @@
-[![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
-
-# Postdoc OASIS
+# NEON Material Legacies
 This is the central hub for information pertaining to ESIIL Postdocs
 
-# [Your Name]
+# Kai Kopecky
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the Kai Kopecky repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
-## Your Project
-
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+## Material legacy effects on forest resilience at NEON sites
+The dead remains of habtitat-forming organisms, known as material legacies, can influecne ecoloigcal processes during periods of recovery after disturbance, and thereby shape ecosystem resilience. Using the National Ecological Observaroty Network (NEON), I aim to quantify the pervasiveness of dead trees (a type of material legacy) at forested sites across the United sites and evaluate their impact on metrics of forest recovery.
 
 ## Project Proposal
 
