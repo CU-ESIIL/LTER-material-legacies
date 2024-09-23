@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'NEON Material Legacies'
+site_description: 'Project page for ESIIL-based NEON material legacies project'
+site_author: Kai Kopecky
+site_url: https://cu-esiil.github.io/NEON-material-legacies
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: NEON-material-legacies
+repo_url: https://github.com/CU-ESIIL/NEON-material-legacies
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
