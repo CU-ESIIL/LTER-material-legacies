@@ -31,7 +31,3 @@ Link to Github repo for code used to create analyses and visualizations for this
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
 - **Visualization**: Code for creating figures, charts, and interactive visualizations.
-
-10. **Establish Communication Channels**: Beyond GitHub, set up additional communication channels like Slack, Discord, or email lists for quick and informal discussions.
-
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
