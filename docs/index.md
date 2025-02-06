@@ -1,5 +1,4 @@
 # LTER Material Legacies
-This is the central hub for information pertaining to ESIIL Postdocs
 
 #### Kai L. Kopecky
 
