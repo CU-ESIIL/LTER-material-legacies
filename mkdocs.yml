@@ -1,4 +1,4 @@
-site_name: 'NEON Material Legacies'
+site_name: 'LTER Material Legacies'
 site_description: 'Project page for ESIIL-based NEON material legacies project'
 site_author: Kai Kopecky
 site_url: https://cu-esiil.github.io/NEON-material-legacies
@@ -44,8 +44,8 @@ theme:
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
-  logo: 'assets/ESIIL_logo.png'
-  favicon: 'assets/favicon.ico'
+  logo: 'assets/esiil_content/ESIIL_logo.png'
+  favicon: 'assets/esiil_content/favicon.ico'
   # setting features for the navigation tab
   features:
     - navigation.sections
