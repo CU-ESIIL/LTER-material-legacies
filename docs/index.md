@@ -17,12 +17,21 @@ An emerging focus of ecology is to understand how material legacies – biogenic
 
 *Table of material legacies, the enrvironmental conditions or ecological processes they are known to influence, and the posited or known effects they have on demographic procecsses of living foundation species.*
 
-## Collaborators and Co-Authors 
+## Collaborators
 
-- **Katharine Suding**: Lead PI of Niwot Ridge LTER
-- **Jill Johnstone**: Investigator at Bonanza Creek LTER.
-- **Aubrey Barker-Plotkin**: PI of Harvard Forest LTER.
-- **Matt Betts**: Lead PI of Andrews Forest LTER.
+- **Katharine Suding**: Niwot Ridge LTER
+- **Jill Johnstone**: Bonanza Creek LTER
+- **Ty Tuff**: ESIIL Data Scientist
+- **Chris Nytch**: Luquillo LTER
+- **Jesse Nippert**: Konza Prairie LTER
+- **Aubrey Barker-Plotkin**: Harvard Forest LTER
+- **David Bell**: H.J. Andrews Forest LTER
+- **Kyle Emery**: Santa Barbara Coastal LTER
+- **Steve Pennings**: Georgia Coastal LTER
+
+<img width="654" alt="Screenshot 2025-02-06 at 4 20 20 PM" src="https://github.com/user-attachments/assets/5d8f3627-2ddc-42c0-b6f7-cf63a23f4d64" />
+
+*Global distrubution of LTER sites to be included in synthesis.*
 
 ## Code Repository
 
